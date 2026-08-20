@@ -1,0 +1,14 @@
+# robots.txt for https://www.asterarealestate.com
+# Allow all major search engines
+
+User-agent: *
+Allow: /
+
+# Disallow admin/internal areas (add more if needed)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /private/
+
+# Sitemap location (very important)
+Sitemap: https://www.asterarealestate.com/sitemap.xml
