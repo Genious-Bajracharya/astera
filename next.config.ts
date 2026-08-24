@@ -25,10 +25,8 @@ const nextConfig: NextConfig = {
   },
 
   // ===== PERFORMANCE =====
-  swcMinify: true, // Use SWC for faster minification
 
   // ===== FONT OPTIMIZATION =====
-  optimizeFonts: true,
 
   // ===== WEBPACK CONFIGURATION =====
   webpack: (config) => {
