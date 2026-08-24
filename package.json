@@ -29,7 +29,7 @@
     "express": "^5.2.1",
     "http-proxy": "^1.18.1",
     "js-cookie": "^3.0.5",
-    "next": "15.3.4",
+    "next": "16.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.61.1",
@@ -46,7 +46,7 @@
     "@types/react-dom": "^19",
     "@types/sanitize-html": "^2.16.0",
     "eslint": "^9",
-    "eslint-config-next": "15.3.4",
+    "eslint-config-next": "16.3.2",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
